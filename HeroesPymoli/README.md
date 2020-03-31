@@ -1,20 +1,15 @@
 {
  "cells": [
   {
-   "cell_type": "markdown",
+   "cell_type": "raw",
    "metadata": {},
    "source": [
     "# Heroes of Pymoli: Game Analytics\n",
     "\n",
     "In this project we will analyze data for the fictional F2P game \"Heroes of Pymoli\". As many other games developed on the schema free-to-play, playes are encouraged to purchase optional items that enchance their player experience.\n",
     "\n",
-    "![image](images/Fantasy.png)"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
+    "![image](images/Fantasy.png)\n",
+    "\n",
     "# Key Insights\n",
     "\n",
     "\n",
