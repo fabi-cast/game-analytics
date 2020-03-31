@@ -1,2 +1,3 @@
-# game-analytics
-Diverse case studies in Game Analytics
+# Game Analytics
+
+I love mobile games and this repo contains diverse case studies in Game Analytics based on fictional data.
